@@ -1,0 +1,11 @@
+# Core Packages
+Django>=3.2,<4.0
+djangorestframework
+
+# LangChain and OpenAI integration
+langchain
+langchain_openai
+
+# Additional Packages
+requests           
+python-dotenv        
